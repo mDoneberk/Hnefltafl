@@ -35,4 +35,4 @@ Struktura kódu
 6.Obsahuje tah hráče a kontroli vhodného tahu
 7.Obsahuje zobrazování herní plochy a jednotlivé tahy
 8.Funkce v provozu, samotný herní cyklus s podmínkami na konec hry
-9.KOnec hry
+9.Konec hry
